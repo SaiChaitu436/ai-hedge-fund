@@ -573,7 +573,7 @@ pyflakes = ">=3.1.0,<3.2.0"
 
 [[package]]
 name = "fonttools"
-version = "4.57.0"
+version = "4.60.2"
 description = "Tools to manipulate font files"
 optional = false
 python-versions = ">=3.8"
